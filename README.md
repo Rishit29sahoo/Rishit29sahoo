@@ -35,7 +35,6 @@
 **Backend & Frameworks**
 
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></a>
-<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /></a>
 
 **Databases**
 
@@ -46,7 +45,6 @@
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
 
 ---
 
@@ -55,19 +53,12 @@
 ### 🎓 [Student Management System](https://github.com/Rishit29sahoo/student-management-system)
 > A full-stack web application to manage student records with CRUD operations.
 
-- **Stack:** HTML · CSS · JavaScript · Node.js · Express.js · MySQL
+- **Stack:** HTML · CSS · JavaScript · Node.js · MySQL
 - **Features:** Add, view, update, and delete student records via a REST API backend
 - **Highlights:** Clean MVC structure, MySQL relational database design, RESTful API
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishit29sahoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit29sahoo&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
 
 ---
 
